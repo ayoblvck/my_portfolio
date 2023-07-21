@@ -1,0 +1,7 @@
+---
+title: "this is my portfolio" 
+output:
+  html_document
+---
+
+# welcome to my page where i will be showcasing some of my work
