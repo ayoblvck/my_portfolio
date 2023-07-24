@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Welcome to my Page</title>
+        <link>/tags/</link>
+        <description>Tags - Tag - Welcome to my Page</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>plot</title>
+    <link>/tags/plot/</link>
+    <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+    <author>Author</author>
+    <guid>/tags/plot/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>R Markdown</title>
+    <link>/tags/r-markdown/</link>
+    <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+    <author>Author</author>
+    <guid>/tags/r-markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>regression</title>
+    <link>/tags/regression/</link>
+    <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+    <author>Author</author>
+    <guid>/tags/regression/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

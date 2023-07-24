@@ -1,7 +1,5 @@
 ---
-title: "this is my portfolio" 
-output:
-  html_document
+site: blogdown:::blogdown_site
 ---
 
-# welcome to my page where i will be showcasing some of my work
+<!-- This file is for blogdown only. Please do not edit it. -->
