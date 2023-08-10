@@ -3,9 +3,12 @@ title: "projects"
 ---
 
 # Projects I have worked on
-**1.  R Projects**
- - Health Insurance Project
- - Google project
+**1.  Data Analysis**
+ - [Health Insurance Project]()
+ - [Google project]()
  
-**2. Python Projects**
-  - 
+**2. Machine Learning**
+  - [project1]()
+  - [project2]()
+  
+  07747260368
