@@ -11,7 +11,7 @@ editor_options:
 
 # The Science of Data
 
-Everyday, we create tonnes of data from simply existing. Insights from these data have immensely contributed to improvng the quality of our lives. I am passionate about bettering the future and I believe one way of doing that is by learning from the past. 
+Everyday, we create tonnes of data from simply existing. Insights from these data have immensely contributed to improving the quality of our lives. I am passionate about bettering the future and I believe one way of doing that is by learning from the past. 
 
 As a data scientist, I analyze data using r, sql and python, gain insights and visualize them using different visualization tools. This page showcases some of my works and accomplishments. I'm also passionate about machine learning and predictive analysis
 
