@@ -3,22 +3,11 @@ title: "Projects"
 ---
 
 
-**1. Data Analysis using R**
+**1.  Data Analysis using R**
 
--   [Health Insurance Project]()
+-   [bella_beat_project - (R)](https://tubular-peony-b75acf.netlify.app/)
 
--   [bella_beat_project](https://tubular-peony-b75acf.netlify.app/)
+**2.  Machine Learning**
 
-**2. Data Analysis with Python**
+-   [Heart disease prediction - (Python)](https://iridescent-sunflower-8a76c1.netlify.app/)
 
--   [HealthAnalysis]()
-
-**3. SQL**
-
-**4. Shiny Apps**
-
-**4. Machine Learning**
-
--   [project1]()
-
--   [project2]()
